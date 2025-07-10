@@ -1,4 +1,4 @@
-![Todo App Screenshot](/screenshot.jpg)
+![Todo App Screenshot](https://todo-appdev.netlify.app/screenshot.jpg)
 
 # 📝 Todo App
 
